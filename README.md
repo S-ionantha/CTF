@@ -21,7 +21,7 @@ kali 安装及更新镜像源、tools
 - deb https://mirrors.ustc.edu.cn/kali kali-rolling main non-free contrib
 - deb-src https://mirrors.ustc.edu.cn/kali kali-rolling main non-free contrib
 
-- -----无用的镜像源可以用#来注释掉------
+#### -----无用的镜像源可以用#来注释掉------
 
 ## 设置好后依次执行以下命令
 
