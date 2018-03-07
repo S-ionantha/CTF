@@ -1,4 +1,4 @@
-# kali-Parallels-Tools-installation
+# kali Parallels-Tools-installation
 kali 安装及更新镜像源、tools
 
 
@@ -23,7 +23,7 @@ kali 安装及更新镜像源、tools
 
 - -----无用的镜像源可以用#来注释掉------
 
-## 设置好后依次执行一下命令
+## 设置好后依次执行以下命令
 
 
 - apt-get clean
