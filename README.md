@@ -15,7 +15,38 @@ kali 安装及更新镜像源、tools
 - deb http://mirrors.aliyun.com/kali sana main non-free contrib 
 - deb http://mirrors.aliyun.com/kali-security/ sana/updates main contrib non-free 
 - deb-src http://mirrors.aliyun.com/kali-security/ sana/updates main contrib non-free
+#163网易 Kali源
+deb http://mirrors.163.com/debian wheezy main non-free contrib 
+deb-src http://mirrors.163.com/debian wheezy main non-free contrib 
+deb http://mirrors.163.com/debian wheezy-proposed-updates main non-free contrib 
+deb-src http://mirrors.163.com/debian wheezy-proposed-updates main non-free contrib 
+deb-src http://mirrors.163.com/debian-security wheezy/updates main non-free contrib 
+deb http://mirrors.163.com/debian-security wheezy/updates main non-free contrib
 
+#阿里云 Kali源
+deb http://mirrors.aliyun.com/kali kali main non-free contrib
+deb-src http://mirrors.aliyun.com/kali kali main non-free contrib
+deb http://mirrors.aliyun.com/kali-security kali/updates main contrib non-free
+
+#中科大 Kali源
+deb http://mirrors.ustc.edu.cn/kali kali-rolling main non-free contrib
+deb-src http://mirrors.ustc.edu.cn/kali kali-rolling main non-free contrib
+
+#浙江大学 Kali源
+deb http://mirrors.zju.edu.cn/kali kali-rolling main contrib non-free
+deb-src http://mirrors.zju.edu.cn/kali kali-rolling main contrib non-free
+
+#东软大学 Kali源
+deb http://mirrors.neusoft.edu.cn/kali kali-rolling/main non-free contrib
+deb-src http://mirrors.neusoft.edu.cn/kali kali-rolling/main non-free contrib
+
+#重庆大学 Kali源
+deb http://http.kali.org/kali kali-rolling main non-free contrib
+deb-src http://http.kali.org/kali kali-rolling main non-free contrib
+
+#官方Kali源
+#deb http://http.kali.org/kali kali-rolling main non-free contrib
+#deb-src http://http.kali.org/kali kali-rolling main non-free contrib
 ### 官方原版
 
 - deb https://mirrors.ustc.edu.cn/kali kali-rolling main non-free contrib
