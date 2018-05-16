@@ -78,4 +78,5 @@ kali 安装及更新镜像源、tools
 ## ok
 
 # 对了，如果还是显示error，重启吧，基本上没问题了
-# 目前parallels 13.3版本支持的tools工具与kali 2018.2版本的内核不兼容安装会出现error： could not build kernel modules问题尝试更换低内核版本，另外，如果之前成功安装了parallels tools之后更新到最新版之后会出现黑屏的情况，请选择linux 4.14.0版本可正常运行
+# 另如果出现什么签名无效无法更新的话执行下面的指令
+- apt-key adv --keyserver hkp://keys.gnupg.net --recv-keys 7D8D0BF6
